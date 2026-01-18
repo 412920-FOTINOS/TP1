@@ -1,5 +1,11 @@
-## TP1
-Primer trabajo práctico del curso de Data Engineer - Dicsys Academy
+# TP1
+First Practical assignment of the Data Engineering program at Dicsys Academy
+
+## Author
+Jano Fotinós - Córdoba, Argentina 
+
+
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Nest Logo" /></a>
 </p>
